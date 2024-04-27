@@ -1,0 +1,11 @@
+﻿
+
+ 
+
+
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<RunSettingsFilePath>$(MSBuildProjectDirectory)\C:\Users\Bahaa\source\CalculatorSolution\CalculatorProjectTests</RunSettingsFilePath>
+	</PropertyGroup>
+	...
+</Project>
