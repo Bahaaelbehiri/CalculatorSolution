@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<runsettings>
-	<TestParameters>
-		<parameter name="ValueX" value="5" />
-		<parameter name="ValueY" value="9" />
-	</TestParameters>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="ValueX" value="5" />
+		<Parameter name="ValueY" value="9" />
+	</TestRunParameters>
 
-</runsettings>
+</RunSettings>

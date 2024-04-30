@@ -8,9 +8,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorProjectTests", "CalculatorProjectTests\CalculatorProjectTests.csproj", "{1E6D2A32-6D30-4BFD-B6AA-ED14C713661D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FD81875F-E58F-49ED-8590-31F76A418890}"
-	ProjectSection(SolutionItems) = preProject
-		test.runsettings.xslt = test.runsettings.xslt
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
