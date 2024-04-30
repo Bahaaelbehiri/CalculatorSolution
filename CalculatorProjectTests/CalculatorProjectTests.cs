@@ -18,6 +18,7 @@ namespace CalculatorProjectTests
            // TestContext?.WriteLine("In test: " + TestContext?.TestName?.ToUpper());
             Calculator c = new Calculator();
             int result = c.Add(x, y);
+            TestContext.WriteLine("The result is" + result);
             Assert.AreEqual(14, result); 
         }
     }
